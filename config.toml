@@ -82,7 +82,7 @@ theme = "theme"
         weight = 7
     [languages.en.params]
       # site description
-      description = "My Site"
+      description = "Coding is Life."
       # site keywords
       keywords = ["Tech", "Blog"]
       # App icon config

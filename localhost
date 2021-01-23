@@ -1,1 +1,1 @@
- hugo server --bind 192.168.29.111 --baseURL=http://192.168.29.111  --disableFastRender -e production
+hugo server --bind $(ip a | grep 192.| cut -d " " -f 6 | cut -d "/" -f1) --baseURL=http://$(ip a | grep 192.| cut -d " " -f 6 | cut -d "/" -f1)  --disableFastRender -e production

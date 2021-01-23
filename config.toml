@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "www.thenerdguy.ml"
 defaultContentLanguage = "en"
 title = "TheNerdGuy"
 ignoreErrors = ["error-remote-getjson"]
@@ -181,7 +181,7 @@ enableEmoji = true
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
-  gitRepo = "https://github.com/krishna8421/krishna8421.github.io"
+  gitRepo = "https://github.com/krishna8421/site"
   # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
   fingerprint = ""
   # date format

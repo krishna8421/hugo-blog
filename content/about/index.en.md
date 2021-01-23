@@ -10,10 +10,10 @@ math:
 ---
 
 {{< style "img { height: 1.25rem; }" >}}
-[![Github Repo](https://img.shields.io/badge/Github-Repo-success)](https://github.com/krishna8421/krishna8421.github.io)
-[![License](https://img.shields.io/badge/License-MIT-success)](https://github.com/krishna8421/krishna8421.github.io/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/krishna8421/krishna8421.github.io?style=social)](https://github.com/krishna8421/krishna8421.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/krishna8421/krishna8421.github.io?style=social)](https://github.com/krishna8421/krishna8421.github.io/fork)
+[![Github Repo](https://img.shields.io/badge/Github-Repo-success)](https://github.com/krishna8421/site)
+[![License](https://img.shields.io/badge/License-MIT-success)](https://github.com/krishna8421/site/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/krishna8421/site?style=social)](https://github.com/krishna8421/site)
+[![GitHub forks](https://img.shields.io/github/forks/krishna8421/site?style=social)](https://github.com/krishna8421/site/fork)
 {{< /style >}}
 
 # The Nerd Guy

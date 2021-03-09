@@ -1,0 +1,12 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: make init
+    command: hugo server --disableFastRender -e production --baseUrl $(gp url 1313) --appendPost=false
+    name: Hugo
+    openMode: tab-before
+ports:
+  - port: 1313
+    onOpen: open-preview
+    
